@@ -12,7 +12,7 @@ const Text = () => {
       <p>3.Point your phone to this screen to capture the code</p>
       <div className="bootom-text">
         <a href="/" className=" text-link" style={{ textDecoration: "none" }}>
-          need to help get started?
+          Need to help get started?
         </a>
       </div>
     </div>
